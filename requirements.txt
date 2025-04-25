@@ -1,0 +1,4 @@
+Flask
+requests
+python-dotenv
+groq # if Groq has an official Python package
